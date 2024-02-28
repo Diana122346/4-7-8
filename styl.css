@@ -1,0 +1,123 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+background-color:rgb(64, 173, 177);
+ overflow: auto; 
+ padding: 10px; 
+
+}
+
+a:hover {
+color:wheat;
+}
+
+header a {
+text-decoration: none;
+color: white;
+padding: 35px;
+
+}
+
+header img {
+width: 150px;
+height: 110px;
+float: left;
+margin-right: 10px; 
+margin-bottom: 10px;
+}
+
+ .image-container {
+ overflow: auto;
+        }
+
+nav {
+ float: left; 
+ margin-top: 25px;
+ margin-bottom: 1px;
+}
+
+
+.pic{ 
+  float:left; 
+margin: 7px 7px 7px 0; 
+}
+
+.bluu{
+font-size: 25px;
+color: rgb(83, 200, 200);
+
+}
+
+.picti{
+height: 160px;
+width: 260px;
+margin: 12px;
+border: 2px solid seagreen;
+}
+
+.centr {
+text-align: center;
+color: rgb(83, 200, 200);
+font-size: 45px;
+}
+
+h2 {
+text-align: center;
+font-size: 35px;
+}
+
+.gall {
+list-style: url(https://s.w.org/images/core/emoji/14.0.0/svg/2705.svg);
+}
+
+li{
+font-size: 20px;
+}
+
+h3 {
+font-size: 30px;
+}
+
+main a{
+color: rgb(99, 175, 149);
+font-size: 20px;
+text-decoration: none;
+}
+
+.menu{
+color: rgb(192, 95, 95);
+font-size: 30px;
+text-align:center;
+}
+
+.nomer {
+color: rgb(153, 56, 21);
+}
+
+font {
+color:red;
+}
+
+.grey{
+color: rgb(105, 99, 99);
+border-bottom: 1px solid black;
+font-size: 20px;
+}
+
+.black {
+font-size: 25px;
+border-bottom: 2px solid black;
+}
+
+.bblu{
+font-size:20px ;
+color: rgb(83, 200, 200);
+}
+
+footer {
+background-color:rgb(64, 173, 177);
+padding: 8px;
+}
